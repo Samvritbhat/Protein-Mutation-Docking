@@ -1,6 +1,6 @@
 # Protein Mutation & Stability Study (Computational Biochemistry)
 
-**Author:** [Your Name], 10th grade, Troy, MI  
+**Author:** [Samvrit Bhat], 10th grade, Troy, MI  
 **Focus:** Biochemistry + Chemistry + Structural Biology
 
 ## Research Question
