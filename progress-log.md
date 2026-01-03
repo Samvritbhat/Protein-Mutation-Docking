@@ -7,5 +7,6 @@
 - Next step: choose protein and download PDB structure.
 
 ### Day 2
-- (Write what you did today.)
-- Next step: (Write what you will do next.)
+(Week 1)
+- Downloaded hemoglobin structure from RCSB PDB (PDB ID: 4HHB).
+- Next step: (Move from “setup” to real data + first results)
