@@ -1,14 +1,1 @@
-Mutation,               Chain,             Residue Number,     WT AA,         Mut AA,         Mutation Type,             Near Functional Region (Y/N),                Predicted DDG (kcal/mol),                 Tool Used,                   Notes,
-______
-______
-______
-______
-______
-______
-______
-______
-______
-______
-______
-______
-______
+Mutation,Chain,Residue_Number,WT_AA,Mut_AA,Mutation_Type,Near_Functional_Region (Y/N),Predicted_DDG (kcal/mol),Tool_Used,Notes
