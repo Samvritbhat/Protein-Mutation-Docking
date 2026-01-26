@@ -1,1 +1,2 @@
 Mutation,Chain,Residue_Number,WT_AA,Mut_AA,Mutation_Type,Near_Functional_Region (Y/N),Predicted_DDG (kcal/mol),Tool_Used,Notes
+E6V,B(or D),6,Glu,Val,Hydrophobic,N,
