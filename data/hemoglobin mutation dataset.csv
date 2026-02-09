@@ -1,14 +1,4 @@
 Mutation,Chain,Residue_Number,WT_AA,Mut_AA,Mutation_Type,Near_Functional_Region (Y/N),Predicted_DDG (kcal/mol),Tool_Used,Notes
-E6V,B(or D),6,Glu,Val,Hydrophobic,N,
+E6V,B(or D),6,Glu,Val,Hydrophobic,N,-0.9 kcal/mol,CUPSAT used,the predicted DDG value is negative, which means that the protein is more likely to unfold
 
-E6K (Glu → Lys) — negative → positive (charge reversal)
-K82E (Lys → Glu) — positive → negative (charge reversal)
-D94N (Asp → Asn) — negative → polar (charge loss)
-S93A (Ser → Ala) — polar → nonpolar (hydrophobicity increase)
-T87A (Thr → Ala) — polar → nonpolar
-V67D (Val → Asp) — nonpolar → negative (charge gain)
-A70S (Ala → Ser) — nonpolar → polar
-G83V (Gly → Val) — small → larger (steric change)
-F41S (Phe → Ser) — aromatic → polar (major property change)
-L96W (Leu → Trp) — larger aromatic substitution (steric + hydrophobic)
-P36A (Pro → Ala) — rigid ring → flexible (structural effect)
+
