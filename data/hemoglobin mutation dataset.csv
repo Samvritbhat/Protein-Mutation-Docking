@@ -1,4 +1,4 @@
 Mutation,Chain,Residue_Number,WT_AA,Mut_AA,Mutation_Type,Near_Functional_Region (Y/N),Predicted_DDG (kcal/mol),Tool_Used,Notes
 E6V,B(or D),6,Glu,Val,Hydrophobic,N,-0.9 kcal/mol,CUPSAT used,the predicted DDG value is negative, which means that the protein is more likely to unfold
-
+V67D,B(or D),67,Val,Asp,Hydrophobic,Y (very close to Heme), 0.66 kcal/mol,CUPSAT used,the predicted DDG value is positive, which means that Asp is stablilizing
 
