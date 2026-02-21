@@ -11,7 +11,6 @@ L96W,"B(or D)",96,Leu,Trp,"Nonpolar to Nonpolar (size increase)","Y (Located on 
 G83V,"B(or D)",83,Gly,Val,"Size increase",N,1.12 kcal/mol,"CUPSAT used","This was just enough size. The Valine actually helped ""plug a leak"" in the structure."
 P36A,"B(or D)",36,Pro,Ala,"Rigid to Flexible",N,0.12 kcal/mol,"CUPSAT used","Nearly neutral stability change. Removing the rigid Proline ring at this position does not significantly weaken the protein fold."
 F41S,"B(or D)",41,Phe,Ser,"Nonpolar to Polar","Y (Directly shields the Heme group)",-3.94 kcal/mol,"CUPSAT used","Significant destabilization; loss of aromatic stacking and hydrophobic protection of the Heme pocket."
-
 | Mutation | $\Delta\Delta G$ (kcal/mol) | $\|\Delta\Delta G\|$ | Category | Stability Effect |
 | :--- | :--- | :--- | :--- | :--- |
 | **L96W** | -8.68 | 8.68 | Size Change | Severe Destabilization |
