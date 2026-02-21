@@ -1,0 +1,6 @@
+Category,Average_Absolute_DDG (kcal/mol),Analysis
+Size Change,4.90,"The most disruptive category. Size mismatches cause major steric strain."
+Aromatic/Polar,3.94,"High impact (based on F41S); shows the importance of Heme shielding."
+Charge Change,0.75,"Moderate impact; the protein is somewhat resilient to surface charge swaps."
+Polarity Change,0.67,"Lower impact; usually tolerated unless the residue is buried."
+"Structural (P36A)",0.12,"Lowest impact; the ""hinge"" is surprisingly flexible."
