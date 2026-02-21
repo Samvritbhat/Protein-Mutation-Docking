@@ -1,27 +1,13 @@
 Mutation,Chain,Residue_Number,WT_AA,Mut_AA,Mutation_Type,Near_Functional_Region (Y/N),Predicted_DDG (kcal/mol),Tool_Used,Notes
+L96W,"B(or D)",96,Leu,Trp,"Nonpolar to Nonpolar (size increase)","Y (Located on the proximal helix, close to the Heme)",-8.68 kcal/mol,"CUPSAT used","Tryptophan is essentially acting like a wrecking ball inside the protein. It is physically impossible for the hemoglobin molecule to maintain its shape with that giant double-ring shoved into that specific spot."
+F41S,"B(or D)",41,Phe,Ser,"Nonpolar to Polar","Y (Directly shields the Heme group)",-3.94 kcal/mol,"CUPSAT used","Significant destabilization; loss of aromatic stacking and hydrophobic protection of the Heme pocket."
+S93A,"B(or D)",93,Ser,Ala,"Polar to Nonpolar","Y (Directly adjacent to the proximal Histidine/Heme)",1.71 kcal/mol,"CUPSAT used","Mutation is predicted to increase protein stability, likely due to better packing or hydrophobic fit near the Heme."
+D94N,"B(or D)",94,Asp,Asn,"Charge to Polar","Y (It helps stabilize the structure during oxygen binding)",-1.5 kcal/mol,"CUPSAT used","the DDG value is negative, meaning that the mutation will likely destabilize"
+G83V,"B(or D)",83,Gly,Val,"Size increase",N,1.12 kcal/mol,"CUPSAT used","This was just enough size. The Valine actually helped ""plug a leak"" in the structure."
 E6V,"B(or D)",6,Glu,Val,"Charge to Hydrophobic",N,-0.9 kcal/mol,"CUPSAT used","the predicted DDG value is negative, which means that the protein is more likely to unfold"
 V67D,"B(or D)",67,Val,Asp,"Hydrophobic to Charge","Y (very close to Heme)",0.66 kcal/mol,"CUPSAT used","the predicted DDG value is positive, which means that Asp is stablilizing. The Aspartic Acid (D) might be close enough to a ""neighbor"" (like a nearby Histidine or another polar residue) to form a brand new hydrogen bond that didn't exist with Valine."
-E6K,"B(or D)",6,Glu,Lys,"Charge Reversal",N,-0.12 kcal/mol,"CUPSAT used","the predicted DDG value is negative, which means that the protein is more likely to unfold"
 K82E,"B(or D)",82,Lys,Glu,"Charge Reversal","Y (in the approximate range)",0.59 kcal/mol,"CUPSAT used","the predicted DDG value is positive which means that the protein will stabilize"
-D94N,"B(or D)",94,Asp,Asn,"Charge to Polar","Y (It helps stabilize the structure during oxygen binding)",-1.5 kcal/mol,"CUPSAT used","the DDG value is negative, meaning that the mutation will likely destabilize"
-S93A,"B(or D)",93,Ser,Ala,"Polar to Nonpolar","Y (Directly adjacent to the proximal Histidine/Heme)",1.71 kcal/mol,"CUPSAT used","Mutation is predicted to increase protein stability, likely due to better packing or hydrophobic fit near the Heme."
 T87A,"B(or D)",87,Thr,Ala,"Polar to Nonpolar",N,-0.23 kcal/mol,"CUPSAT used","S93A (+1.71): Alanine fits better in a buried, cramped space... T87A (-0.23): Alanine is ""unhappy"" in a water-exposed, surface space."
-A70S,"B(or D)",70,Ala,Ser,"Nonpolar to Polar",N,0.07 kcal/mol,"CUPSAT used","Nearly neutral stability change. The small size of Serine allows it to fit into the Alanine ""pocket"" without much clashing."
-L96W,"B(or D)",96,Leu,Trp,"Nonpolar to Nonpolar (size increase)","Y (Located on the proximal helix, close to the Heme)",-8.68 kcal/mol,"CUPSAT used","Tryptophan is essentially acting like a wrecking ball inside the protein. It is physically impossible for the hemoglobin molecule to maintain its shape with that giant double-ring shoved into that specific spot."
-G83V,"B(or D)",83,Gly,Val,"Size increase",N,1.12 kcal/mol,"CUPSAT used","This was just enough size. The Valine actually helped ""plug a leak"" in the structure."
+E6K,"B(or D)",6,Glu,Lys,"Charge Reversal",N,-0.12 kcal/mol,"CUPSAT used","the predicted DDG value is negative, which means that the protein is more likely to unfold"
 P36A,"B(or D)",36,Pro,Ala,"Rigid to Flexible",N,0.12 kcal/mol,"CUPSAT used","Nearly neutral stability change. Removing the rigid Proline ring at this position does not significantly weaken the protein fold."
-F41S,"B(or D)",41,Phe,Ser,"Nonpolar to Polar","Y (Directly shields the Heme group)",-3.94 kcal/mol,"CUPSAT used","Significant destabilization; loss of aromatic stacking and hydrophobic protection of the Heme pocket."
-| Mutation | $\Delta\Delta G$ (kcal/mol) | $\|\Delta\Delta G\|$ | Category | Stability Effect |
-| :--- | :--- | :--- | :--- | :--- |
-| **L96W** | -8.68 | 8.68 | Size Change | Severe Destabilization |
-| **F41S** | -3.94 | 3.94 | Polarity/Aromatic | Significant Destabilization |
-| **S93A** | 1.71 | 1.71 | Polarity Change | Stabilizing |
-| **D94N** | -1.50 | 1.50 | Charge Change | Destabilizing |
-| **G83V** | 1.12 | 1.12 | Size Change | Stabilizing |
-| **E6V** | -0.90 | 0.90 | Charge to Nonpolar | Mildly Destabilizing |
-| **V67D** | 0.66 | 0.66 | Charge Change | Stabilizing |
-| **K82E** | 0.59 | 0.59 | Charge Change | Stabilizing |
-| **T87A** | -0.23 | 0.23 | Polarity Change | Slightly Destabilizing |
-| **E6K** | -0.12 | 0.12 | Charge Change | Neutral |
-| **P36A** | 0.12 | 0.12 | Structural/Flex | Neutral |
-| **A70S** | 0.07 | 0.07 | Polarity Change | Neutral |
+A70S,"B(or D)",70,Ala,Ser,"Nonpolar to Polar",N,0.07 kcal/mol,"CUPSAT used","Nearly neutral stability change. The small size of Serine allows it to fit into the Alanine ""pocket"" without much clashing."
