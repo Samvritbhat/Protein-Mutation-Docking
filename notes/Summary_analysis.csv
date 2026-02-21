@@ -1,6 +1,6 @@
-Category,Average_Absolute_DDG (kcal/mol),Analysis
-Size Change,4.90,"The most disruptive category. Size mismatches cause major steric strain."
-Aromatic/Polar,3.94,"High impact (based on F41S); shows the importance of Heme shielding."
-Charge Change,0.75,"Moderate impact; the protein is somewhat resilient to surface charge swaps."
-Polarity Change,0.67,"Lower impact; usually tolerated unless the residue is buried."
-"Structural (P36A)",0.12,"Lowest impact; the ""hinge"" is surprisingly flexible."
+Category,Average_Absolute_DDG (kcal/mol),Analysis,Spatial_Notes
+Size Change,4.90,"The most disruptive category. Size mismatches cause major steric strain.","Buried (Internal Core): Includes L96W. Higher values because there is no room for error inside the protein."
+Aromatic/Polar,3.94,"High impact (based on F41S); shows the importance of Heme shielding.","Functional (Heme Pocket): Includes F41S. These might have low DDG but cause high clinical damage."
+Charge Change,0.75,"Moderate impact; the protein is somewhat resilient to surface charge swaps.","Surface (External Shell): Includes E6V, E6K. Lower impact because the water environment can ""buffer"" the change."
+Polarity Change,0.67,"Lower impact; usually tolerated unless the residue is buried.","Mixed Location: Includes S93A (Buried) and T87A (Surface). Impact depends heavily on core vs. shell positioning."
+"Structural (P36A)",0.12,"Lowest impact; the ""hinge"" is surprisingly flexible.","Structural Hinge: The protein backbone at this position is resilient to flexibility changes."
