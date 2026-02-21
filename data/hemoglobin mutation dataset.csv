@@ -11,3 +11,18 @@ L96W,"B(or D)",96,Leu,Trp,"Nonpolar to Nonpolar (size increase)","Y (Located on 
 G83V,"B(or D)",83,Gly,Val,"Size increase",N,1.12 kcal/mol,"CUPSAT used","This was just enough size. The Valine actually helped ""plug a leak"" in the structure."
 P36A,"B(or D)",36,Pro,Ala,"Rigid to Flexible",N,0.12 kcal/mol,"CUPSAT used","Nearly neutral stability change. Removing the rigid Proline ring at this position does not significantly weaken the protein fold."
 F41S,"B(or D)",41,Phe,Ser,"Nonpolar to Polar","Y (Directly shields the Heme group)",-3.94 kcal/mol,"CUPSAT used","Significant destabilization; loss of aromatic stacking and hydrophobic protection of the Heme pocket."
+
+| Mutation | $\Delta\Delta G$ (kcal/mol) | $\|\Delta\Delta G\|$ | Category | Stability Effect |
+| :--- | :--- | :--- | :--- | :--- |
+| **L96W** | -8.68 | 8.68 | Size Change | Severe Destabilization |
+| **F41S** | -3.94 | 3.94 | Polarity/Aromatic | Significant Destabilization |
+| **S93A** | 1.71 | 1.71 | Polarity Change | Stabilizing |
+| **D94N** | -1.50 | 1.50 | Charge Change | Destabilizing |
+| **G83V** | 1.12 | 1.12 | Size Change | Stabilizing |
+| **E6V** | -0.90 | 0.90 | Charge to Nonpolar | Mildly Destabilizing |
+| **V67D** | 0.66 | 0.66 | Charge Change | Stabilizing |
+| **K82E** | 0.59 | 0.59 | Charge Change | Stabilizing |
+| **T87A** | -0.23 | 0.23 | Polarity Change | Slightly Destabilizing |
+| **E6K** | -0.12 | 0.12 | Charge Change | Neutral |
+| **P36A** | 0.12 | 0.12 | Structural/Flex | Neutral |
+| **A70S** | 0.07 | 0.07 | Polarity Change | Neutral |
