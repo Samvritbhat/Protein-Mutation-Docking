@@ -34,3 +34,41 @@ Source: RCSB Protein Data Bank (PDB)
 - Predict ΔΔG for each mutation
 - Create graphs and summarize results
 - Build a mini poster and deliver a 2-minute talk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+March 15th:
+A major limitation of this analysis is that $\Delta\Delta G$ predicts folding stability, not functional viability. Mutations like V67D show positive stability (+0.66) but are clinically pathological because they disrupt Heme affinity. Similarly, E6V shows near-neutral stability but causes catastrophic protein aggregation (Sickle Cell) which a single-protein simulation cannot detect.
